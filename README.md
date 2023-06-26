@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelattybadwy16" alt="abdelattybadwy16" /></a> </p>
 
-- 🔭 I’m work in **E-commerce project**
+- 🔭 I’m study in **SVU Fci Universty**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Frontend with react**
 
-- 👯 I’m a monitor in Frontend Track in **support community**
+- 👯 I’m a mentor in Frontend Track in **support community**
 
 - 🤝 I’m Competitive Programmer in **Codeforces & Leetcode**
 
