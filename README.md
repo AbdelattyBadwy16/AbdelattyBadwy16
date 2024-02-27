@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelatty Badwy</h1>
-<h3 align="center">A junior frontend developer from Egypt</h3>
+<h3 align="center">A junior FullStack developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelattybadwy16&label=Profile%20views&color=0e75b6&style=flat" alt="abdelattybadwy16" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m study in **SVU Fci Universty**
 
-- 🌱 I’m currently learning **Frontend with react**
+- 🌱 I’m currently learning **Frontend with React** and **Backend with .Net**
 
 - 👯 I’m a mentor in Frontend Track in **support community**
 
