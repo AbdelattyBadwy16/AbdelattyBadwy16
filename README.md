@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelatty Badwy</h1>
-<h3 align="center">A junior FullStack developer from Egypt</h3>
+<h3 align="center">A junior Software Enginner from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelattybadwy16&label=Profile%20views&color=0e75b6&style=flat" alt="abdelattybadwy16" /> </p>
 
