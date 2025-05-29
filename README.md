@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelattybadwy16" alt="abdelattybadwy16" /></a> </p>
 
-- 🔭 I’m study in **SVU Fci Universty**
+- 🎓 Graduated in **2025** from South Valley University – Faculty of Computers and Information.
 
-- 🌱 I’m currently learning **Frontend with React** and **Backend with .Net**
-
-- 👯 I’m a mentor in Frontend Track in **support community**
+- 🌱 I have hands-on experience with both Frontend using React and Backend development, but I’m more passionate about building scalable backend systems, particularly with **Spring Boot and .NET ans also Golang**.
 
 - 🤝 I’m Competitive Programmer in **Codeforces & Leetcode**
 
@@ -29,6 +27,9 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="typescript" width="40" height="40"/> </a></p>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+</a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelattybadwy16&show_icons=true&locale=en&layout=compact" alt="abdelattybadwy16" /></p>
 
