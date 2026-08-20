@@ -1,37 +1,113 @@
 <h1 align="center">Hi 👋, I'm Abdelatty Badwy</h1>
-<h3 align="center">A junior Software Engineer from Egypt</h3>
+<h3 align="center">Software Engineer at Sahl | Backend & Systems Developer from Egypt 🇪🇬</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelattybadwy16&label=Profile%20views&color=0e75b6&style=flat" alt="abdelattybadwy16" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelattybadwy16" alt="abdelattybadwy16" /></a> </p>
-
-- 🎓 Graduated in **2025** from South Valley University – Faculty of Computers and Information.
-
-- 🌱 I have hands-on experience with both Frontend using React and Backend development, but I’m more passionate about building scalable backend systems, particularly with **Spring Boot and .NET ans also Golang**.
-
-- 🤝 I’m Competitive Programmer in **Codeforces & Leetcode**
-
-- 📫 How to reach me **abdelattybadwy166@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abdelatty-badwy-13b927247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelatty-badwy-13b927247/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/abdelatty.badwy.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdelatty.badwy.3" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/glitch00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="glitch00" height="30" width="40" /></a>
-<a href="https://leetcode.com/glitch00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/glitch00/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdelattybadwy16&label=Profile%20views&color=0e75b6&style=flat" alt="abdelattybadwy16" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="typescript" width="40" height="40"/> </a></p>
+---
 
+### 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelattybadwy16&show_icons=true&locale=en&layout=compact" alt="abdelattybadwy16" /></p>
+- 💼 Software Engineer at **Sahl**, working on backend systems and payment services.
+- 🎓 Graduated in **2025** from South Valley University – Faculty of Computers and Information.
+- 🚀 Passionate about building **scalable backend systems, developer tools, and open-source projects**.
+- 🧩 Experienced with **.NET, Java, Go, Rust, React, and distributed systems**.
+- ☁️ Interested in **Cloud Infrastructure, DevOps, and System Design**.
+- 🛠️ Working with tools and technologies like **Docker, Kubernetes, Terraform, Datadog, Redis, PostgreSQL, and GraphQL**.
+- 🧠 Competitive Programmer on **Codeforces & LeetCode**.
+- 🌱 Always learning, building, and experimenting with new technologies.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelattybadwy16&show_icons=true&locale=en" alt="abdelattybadwy16" /></p>
+### 🚀 Current Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelattybadwy16&" alt="abdelattybadwy16" /></p>
+- 🌱 Building **Sprout**, an open-source Git GUI focused on helping developers understand what Git actually does through visualizations, explanations, and safe previews.
+
+### 🤝 Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/abdelatty-badwy-13b927247/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://codeforces.com/profile/glitch00" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/glitch00/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
+</p>
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+
+<a href="https://dotnet.microsoft.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET"/>
+</a>
+
+<a href="https://www.java.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java"/>
+</a>
+
+<a href="https://go.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="40" height="40" alt="Go"/>
+</a>
+
+<a href="https://www.rust-lang.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40" alt="Rust"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
+</a>
+
+<a href="https://kubernetes.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="40" height="40" alt="Kubernetes"/>
+</a>
+
+<a href="https://www.terraform.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
+</a>
+
+<a href="https://www.datadoghq.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datadog/datadog-original.svg" width="40" height="40" alt="Datadog"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
+</a>
+
+<a href="https://redis.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis"/>
+</a>
+
+<a href="https://graphql.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" width="40" height="40" alt="GraphQL"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+</a>
+
+</p>
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelattybadwy16&show_icons=true&locale=en&layout=compact" alt="abdelattybadwy16" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelattybadwy16&show_icons=true&locale=en" alt="abdelattybadwy16" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelattybadwy16" alt="abdelattybadwy16" />
+</p>
