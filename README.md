@@ -20,7 +20,7 @@
 
 ### 🚀 Current Projects
 
-- 🌱 Building **Sprout**, an open-source Git GUI focused on helping developers understand what Git actually does through visualizations, explanations, and safe previews.
+- 🌱 Building **GitRoot**, an open-source Git GUI focused on helping developers understand what Git actually does through visualizations, explanations, and safe previews.
 
 ### 🤝 Connect with me
 
