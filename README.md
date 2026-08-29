@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Software Engineer at **Sahl**, working on backend systems and payment services.
+- 💼 Software Engineer at **Sahl**.
 - 🎓 Graduated in **2025** from South Valley University – Faculty of Computers and Information.
 - 🚀 Passionate about building **scalable backend systems, developer tools, and open-source projects**.
 - 🧩 Experienced with **.NET, Java, Go, Rust, React, and distributed systems**.
