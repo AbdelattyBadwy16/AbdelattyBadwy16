@@ -12,7 +12,7 @@
 - 💼 Software Engineer at **Sahl**.
 - 🎓 Graduated in **2025** from South Valley University – Faculty of Computers and Information.
 - 🚀 Passionate about building **scalable backend systems, developer tools, and open-source projects**.
-- 🧩 Experienced with **.NET, Java, Go, Rust, React, and distributed systems**.
+- 🧩 Experienced with **.NET, Java, Go, Rust, React.**.
 - ☁️ Interested in **Cloud Infrastructure, DevOps, and System Design**.
 - 🛠️ Working with tools and technologies like **Docker, Kubernetes, Terraform, Datadog, Redis, PostgreSQL, and GraphQL**.
 - 🧠 Competitive Programmer on **Codeforces & LeetCode**.
